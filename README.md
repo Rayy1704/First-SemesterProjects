@@ -37,3 +37,8 @@ Both projects are open-source .
 
 🚀 Ready to Explore?
 Clone the repository, navigate to the project directories, and delve into the source code. Experiment, learn, and enjoy the world of robotics simulation and classic word games with these C++ projects!
+<h2>Languages & Tools🛠️</h2>
+
+[![Icone VS-Code](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
+[![Icone VS-Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Icone VS-Code](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
